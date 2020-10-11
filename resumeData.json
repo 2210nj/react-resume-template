@@ -1,0 +1,116 @@
+{
+  "main": {
+    "name":"Namita Jadhav",
+    "occupation":"full stack developer",
+    "description":"currently employed by CitiusTech where I work as a technical lead across the range of few products for Baker Hughes, as well being our lead developer.",
+    "image":"profilepic.jpg",
+    "bio":"Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
+    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
+    "email": "2210nj@gmail.com",
+    "phone": "+91-9930087987",
+    "address":{
+      "street":"(Your Street)",
+      "city":"Mumbai",
+      "state":"(Your State)",
+      "zip": "(Your Zip/Postal Code)"
+    },
+    "website": "https://2210nj.github.io/",
+    "resumedownload":"Namita Jadhav- Software Developer.pdf",
+    "social":[
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/2210nj/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"https://www.instagram.com/yourstrulynami/",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/2210nj",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "education":[
+      {
+        "school":"Rajasthan Technical University",
+        "degree":"Bachelors in Computer Science",
+        "graduated":"May 2013",
+        "description":""
+      }
+    ],
+    "work":[
+      {
+        "company":"CitiusTech",
+        "title":"Technical Lead",
+        "years":"October 2017 - Present",
+        "description":"I have been working as a Full Stack Software Engineer with General ELectric as a client. Here, I have had the chance to dig in and get my hands dirty on every module of the product. One of the prime projects was to work on the legacy app focusing on its front end technologies in energy domain, as well as created new framework in Angular for building new applications with it. Besides, I have also led the development of V2 for a new consumer for this framework. I have worked extensively with Angular libraries for creating custom widgets and documentation for the prospective consumers."
+      },
+      {
+        "company":"Zeus Learning",
+        "title":"Web Developer",
+        "years":"December 2015 - March 2017",
+        "description":"Zeus learning was an great opportunity to get hands on experience on interative course developement. This project consisted of different sub-projects which focused on development of job and career related products. The main objective of this project is to provide different tests, course material, e-books, etc. to registered users through libraries or portals"
+      }
+    ],
+    "skills":[
+      {
+        "name":"Git",
+        "level":"60%"
+      },
+      {
+        "name":"Angular",
+        "level":"80%"
+      },
+      {
+        "name":"ReactJs",
+        "level":"40%"
+      },
+      {
+        "name":"CSS",
+        "level":"90%"
+      },
+      {
+        "name":"HTML5",
+        "level":"80%"
+      },
+      {
+        "name":"NodeJS",
+        "level":"75%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"To Do App",
+        "category":"My daily tracker of tasks",
+        "image":"to-do.jpg",
+        "url":"https://2210nj.github.io/to-do"
+      },
+      {
+        "title":"Whatsapp Clone",
+        "category":"A fun tool to find what goes behind a chat application like Whatsapp",
+        "image":"whatsapp-clone.jpg",
+        "url":"https://2210nj.github.io/whatsapp-clone"
+      }
+    ]
+  },
+  "testimonials":{
+    "testimonials":[
+      {
+        "text":"She is a great team member to work with. Goes in depth of the problem and recommends some good solutions. Very helpful to the team members. Doesn’t shy away to put efficient ideas on to the table.",
+        "user":"Bhavana Kushwaha"
+      },
+      {
+        "text":"I've worked alongside Namita for close to two years now. We worked on a couple of projects together for a client and performed under tight timelines to launch the product. She brings all her skills and abilities to the table as a software developer. Namita also focuses a lot on code hygiene which makes the code a breeze to go through. Namita has grown quickly, and her willingness to learn and take on these new responsibilities is something desired in any professional.",
+        "user":"Mitesh Agarwal"
+      }
+    ]
+  }
+}
